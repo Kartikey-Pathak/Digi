@@ -1,6 +1,6 @@
 function Text() {
     return (
-        <div className=" absolute z-20 flex flex-col justify-start">  
+        <div className=" absolute z-20 flex flex-col justify-start mt-10">  
             <div className=" h-7 md:h-10 rounded-xl w-[70vw] max-w-[20rem] md:mt-20 ml-5 md:ml-20 mt-10 border-2 border-gray-400 flex items-center justify-center">
                 <span className=" text-sm text-[#5B8FB9]">Empowering Your Business with Innovation</span>
             </div>
